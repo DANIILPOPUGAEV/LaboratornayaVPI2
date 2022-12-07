@@ -10,6 +10,7 @@
         public int Massa { get; set; }
         public void Info()
         {
+
             Console.Write("Модель: ");
             Console.WriteLine(Model);
             Console.Write("Показатель частоты: ");
